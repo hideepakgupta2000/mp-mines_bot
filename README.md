@@ -1,4 +1,3 @@
-# mp-mines_bot
 # mp-mines_bot 
 
 A Telegram bot designed for fetching and processing mining-related data (e.g., eMM11 entries) for Madhya Pradesh users. It supports:
